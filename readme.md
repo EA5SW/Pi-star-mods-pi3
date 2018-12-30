@@ -6,7 +6,9 @@ Put the system in RW with
 
 rpi-rw
 
-Clone the GIT git clone https://github.com/EA5SW/Pi-star-mods-pi3
+Clone the GIT:
+
+git clone https://github.com/EA5SW/Pi-star-mods-pi3
 
 Enter folder cd Pi-start-mods-nano
 
